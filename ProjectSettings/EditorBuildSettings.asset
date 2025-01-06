@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9c7f6dd54c1f7644fae23a05c191602f
+  - enabled: 1
+    path: Assets/Scenes/ZombieGameplay.unity
+    guid: 7fe2ddbb3d8fc0f43b2981eb2a961740
+  - enabled: 1
+    path: Assets/Scenes/ZombieGameplay 1.unity
+    guid: 8c52331a933e7e44da616689f15b04e2
+  - enabled: 1
+    path: Assets/Scenes/ZombieGameplay 2.unity
+    guid: 741ba9fb0fc89a249bb57d3d4f139e4c
+  - enabled: 1
+    path: Assets/Scenes/ZombieGameplay 3.unity
+    guid: d001052dbbe31c34fb52265972e5f803
+  m_configObjects: {}
