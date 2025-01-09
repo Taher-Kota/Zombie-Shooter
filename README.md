@@ -26,6 +26,23 @@ Features
 
 * * * * *
 
+Controls
+--------
+
+-   **W**: Move Upward
+
+-   **A**: Move Left
+
+-   **S**: Move Downward
+
+-   **D**: Move Right
+
+-   **F**: Shoot
+
+-   **Q**: Change Weapon
+
+* * * * *
+
 Installation and Setup
 ----------------------
 
