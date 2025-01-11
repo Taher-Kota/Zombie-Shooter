@@ -70,7 +70,7 @@ To run this project on your local machine:
 
     Copy code
 
-    `git clone `
+    `git clone https://github.com/Taher-Kota/Zombie-Shooter.git`
 
     Alternatively, download the ZIP file of the repository and extract it.
 
