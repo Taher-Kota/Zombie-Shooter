@@ -4,7 +4,13 @@ This **Zombie Shooter** game, developed in Unity, offers an intense and thrillin
 
 * * * * *
 
+![Screenshot 2025-01-11 135035](https://github.com/user-attachments/assets/d8880085-2e99-4863-af7d-84ba5b6f6fce)
+
+![Screenshot 2025-01-11 135118](https://github.com/user-attachments/assets/e87607a1-7df4-4797-9544-7fb802af7dbb)
+
 Features
+
+
 --------
 
 -   **Four Game Modes**:
@@ -64,9 +70,7 @@ To run this project on your local machine:
 
     Copy code
 
-    `git clone <repository-url>`
-
-    Replace `<repository-url>` with the actual link to your project repository.
+    `git clone `
 
     Alternatively, download the ZIP file of the repository and extract it.
 
